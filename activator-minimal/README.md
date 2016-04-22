@@ -12,4 +12,4 @@ Use the following command to build the image locally:
 docker build -t <image-name> .
 ```
 
-For an example about how to use this image for your play application see [`activator-minimal-example`](activator-minimal-example/)
+For an example about how to use this image for your play application see [`activator-minimal-example`](../activator-minimal-example/)
