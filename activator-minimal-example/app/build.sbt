@@ -23,3 +23,8 @@ NativePackagerKeys.dockerExposedPorts in Docker := Seq(9000, 9443)
 
 // create image with: sbt docker:publishLocal
 // run container with: docker run -p 9000:9000 <name>:<version>
+
+// eclipse plugin configurations
+EclipseKeys.withSource := true
+
+EclipseKeys.withJavadoc := true
